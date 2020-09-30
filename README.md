@@ -56,12 +56,27 @@ The next time you or I re-read the notebook, we can hack it and make it into som
 
 For example, I took the simple "spring" parametric equation above and plotted it using a surface map. The results are more on the silly hunches side, but they are beautiful. It's such a price for exploration. It's 98% dead-ends, scraped knees, and bloody noses. 
 
-(add images)
+![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky28.jpg)
 
 Beyond the power of sharing and interactivity, the notebook is a more efficient method for trying out new coding concepts before using an IDE, like Atom, to program it.
 
 I wish that I know about using Jupyter notebook five, ten years ago. Back then, I was working for LeVar Burton to create interactive mobile book apps. Can Jupyter's notebook extend beyond computer and math to art, music, and storytelling? I don't know, but I would love to find out.
 
-- "Demystify Python 3D Visualization -- A Hackable Step-by-step Jupyter Notebook", (add link)
+- If you read this on Github, start hacking. I have one request that you jump over to LinkedIn, give me a thumbs-up, and send me a message. "Demystify Python 3D Visualization -- A Hackable Step-by-step Jupyter Notebook".
 
-- If you read this on LinkedIn, what are you waiting for? Heading over to Github, using Google Collab or your favorite Jupyter notebook option, and hacking away. (add link)
+- https://www.linkedin.com/pulse/python-3d-visualization-hackable-step-by-step-jupyter-duc-haba/
+
+- If you read this on LinkedIn, what are you waiting for? Heading over to Github, using Google Collab or your favorite Jupyter notebook option, and hacking away.
+
+-  https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/Python_3D_Graphs_p3vi.ipynb
+
+>Samples images from the notebook.
+
+![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky9.jpg)
+
+![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky19.jpg)
+
+![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky26.jpg)
+
+![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky27x.jpg)
+
