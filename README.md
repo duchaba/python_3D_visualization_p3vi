@@ -76,6 +76,8 @@ I wish that I know about using Jupyter notebook five, ten years ago. Back then, 
 
 ![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky19.jpg)
 
+![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky22.jpg)
+
 ![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky26.jpg)
 
 ![output](https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/ducky27x.jpg)
