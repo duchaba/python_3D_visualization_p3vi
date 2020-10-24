@@ -22,11 +22,9 @@ As with the "p2go" project, why not do it yourself? I earnestly believe in stren
 
 ><center><h2><i>The journey continues in the Jupyter notebook.</i></h2></center>
 
-- (the link)
+- https://github.com/duchaba/python_3D_visualization_p3vi/blob/master/Python_3D_Graphs_p3vi.ipynb
 
 - Sample output-graphs from the notebook are as follows.
-
-(add images)
 
 - It is a long journey with our trusting friend, "Ducky," the dog. We start with an "x,y, and z" coordinate 3D-data set, and draw lines in 3D space.
 
